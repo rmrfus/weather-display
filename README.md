@@ -2,7 +2,7 @@
 
 Python source code for Raspberry PI of weather display based on Waveshare 2.13" eInk display.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5isk_31pB18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+How it works: https://youtu.be/5isk_31pB18
 
 TL;DR to make it work on raspberry pi
 
