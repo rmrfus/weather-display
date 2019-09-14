@@ -1,8 +1,8 @@
 # Weather display
 
-Python source code for Raspberry PI of weather display based on Waveshare 2.13" eInk display.
+Python source code for Raspberry PI of weather display based on [Waveshare 2.13" eInk display](https://amzn.to/32EwBQE).
 
-How it works: https://youtu.be/5isk_31pB18
+[How it works](https://youtu.be/5isk_31pB18)
 
 TL;DR to make it work on raspberry pi
 
